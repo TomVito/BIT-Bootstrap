@@ -1,0 +1,145 @@
+body {
+  color: #777;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 1.625em;
+  position: relative;
+}
+.banner-image {
+  background: url("https://preview.colorlib.com/theme/personal/img/blog/xblog-home-banner.jpg.pagespeed.ic.aiMsZVJs5x.jpg");
+  background-size: cover;
+  background-position-x: center;
+}
+.banner-overlay {
+  background: rgba(0, 0, 0, 0.5);
+  height: 730px;
+}
+.overlay-bg {
+  background: rgba(0, 0, 0, 0.7);
+  margin: 7%;
+}
+a {
+  text-decoration: none;
+}
+.pt-90 {
+  padding-top: 90px;
+}
+.pb-90 {
+  padding-bottom: 90px;
+}
+.decoration-none {
+  text-decoration: none;
+}
+.list-none {
+  list-style: none;
+}
+.text-white {
+  color: #fff;
+}
+.blog-header-content {
+  max-width: 500px;
+}
+h1 {
+  font-size: 48px;
+}
+h4 {
+  font-size: 18px;
+  font-weight: 900;
+}
+h6 {
+  font-size: 14px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 24px;
+  color: #222;
+  font-weight: 900;
+  margin: 20px 0;
+}
+li,
+a {
+  color: #222;
+}
+.img-width {
+  width: 100%;
+}
+.relative {
+  position: relative;
+}
+.overlay {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+.box-description {
+  top: 35%;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  color: #fff;
+  bottom: 0;
+  position: absolute;
+}
+.line {
+  border-bottom: 1px solid white;
+  display: block;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+.col-12 .lnr {
+  font-weight: 900;
+  color: #222;
+}
+.col-12 p a {
+  margin-right: 10px;
+}
+.tags li {
+  display: inline;
+}
+.sidebar-widget {
+  padding-bottom: 30px;
+  border-bottom: 1px solid #eee;
+  margin: 30px 30px;
+}
+.search-form input {
+  outline: none;
+  color: #fff;
+  padding: 11px 22px;
+  font-size: 15px;
+  border: none;
+  float: left;
+  width: 80%;
+  border-bottom-left-radius: 20px;
+  border-top-left-radius: 20px;
+  background: #8490ff;
+}
+.search-form button {
+  float: left;
+  width: 20%;
+  padding: 11px;
+  background: #8490ff;
+  color: #fff;
+  font-size: 17px;
+  border: none;
+  border-bottom-right-radius: 20px;
+  border-top-right-radius: 20px;
+}
+.search-form input::placeholder {
+  color: white;
+}
+.search-widget {
+  padding-bottom: 70px;
+  margin: 30px 30px 30px 30px;
+}
+.widget-wrap {
+  border: 1px solid #eee;
+}
+.popular-post a p {
+  color: #777;
+}
